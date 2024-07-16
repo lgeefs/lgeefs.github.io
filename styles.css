@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+main {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.intro {
+    text-align: center;
+}
+
+.intro img {
+    max-width: 100%;
+    height: auto;
+}
+
+.intro p {
+    font-size: 1.2rem;
+    margin: 1rem 0;
+}
+
+.features {
+    margin: 2rem 0;
+}
+
+.features h2 {
+    color: #4CAF50;
+    text-align: center;
+}
+
+.features ul {
+    list-style: none;
+    padding: 0;
+}
+
+.features li {
+    background: #e7e7e7;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    border-radius: 4px;
+}
+
+.download {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.download h2 {
+    color: #4CAF50;
+}
+
+.app-store-link img {
+    width: 200px;
+}
+
+footer {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
